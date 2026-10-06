@@ -1,0 +1,28 @@
+
+    button{
+      background-color: rgb(67, 67, 67);
+      border-radius: 100px;
+      border-style: none;
+      padding: 17px 25px;
+      margin-right: 4px;
+      font-size: 25px;
+      color: white;
+      cursor: pointer;
+    }
+    .operations{
+      background-color: rgb(255, 149, 0)
+    }
+
+    .clear{
+      font-size: 17px;
+      padding: 20px 10px;
+    }
+
+    .displaycalculation{
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+      font-size: 50px;
+      
+      margin-top: 20px;
+      margin-bottom: 10px; 
+    }
